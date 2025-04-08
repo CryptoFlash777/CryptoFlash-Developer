@@ -1,7 +1,7 @@
 # CryptoFlash-Developer
-Welcome to my GitHub! I am CryptoFlash777, a blockchain developer and enthusiast with a strong focus on cryptocurrency tools and decentralized finance (DeFi) applications. My expertise lies in designing and implementing secure, scalable, and efficient blockchain solutions, with an emphasis on enhancing transaction speeds.
-CryptoFlash777 💎
-Welcome to my GitHub! I'm CryptoFlash777, a blockchain enthusiast and developer specializing in cryptocurrency tools and decentralized finance (DeFi) applications. I focus on creating secure, efficient, and scalable solutions in the blockchain ecosystem.
+Welcome to my GitHub! I am Taavi Roivas, a blockchain developer and enthusiast with a strong focus on cryptocurrency tools and decentralized finance (DeFi) applications. My expertise lies in designing and implementing secure, scalable, and efficient blockchain solutions, with an emphasis on enhancing transaction speeds.
+flashbytaavi777 💎
+Focusing on cryptocurrency tools and decentralized finance (DeFi) applications. I focus on creating secure, efficient, and scalable solutions in the blockchain ecosystem.
 
 🔧 Technologies & Tools
 I specialize in various technologies that empower me to build robust applications and tools:
